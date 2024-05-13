@@ -23,7 +23,7 @@ From the figure below, we can see that the model after tuning has improved by a 
 # Quick Start
 a. Create a conda virtual environment and activate it.
 
-`conda create --name BinCoFer_env python=3.85 pandas tqdm -y`
+```conda create --name BinCoFer_env python=3.85 pandas tqdm -y```
 `conda activate BinCoFer_env`
 
 b. Install PyTorch and other packages.
