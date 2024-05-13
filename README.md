@@ -4,7 +4,7 @@ BinCoFer’s datasets
 This project aims to collect Arch Linux data sets, mainly covering ground truth, binary programs and third-party libraries. However, these resources have not yet been fully curated.
 
 # jtrans Finetuned
-From the figure below, we can see that the model after tuning has improved by a certain amount compared with the model before tuning.If you want to get the **tuned model**, please contact us.
+From the figure below, we can see that the model after tuning has improved by a certain amount compared with the model before tuning.If you want to get the **tuned model**, please contact with zyx72038@hust.edu.cn.
 ![jtrans_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/3c2d543c-b599-48f6-80af-6b9419955ff6)
 ![jtrans_not_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/b3de5582-5163-4be0-8898-d3cfa0b13017)
 
