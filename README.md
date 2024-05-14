@@ -1,6 +1,5 @@
 # BinCoFer
-
-BinCoFer’s datasets
+BinCoFer is dedicated to detecting the partial reuse of third-party libraries at the binary level in C/C++ binary programs.
 This project aims to collect Arch Linux data sets, mainly covering ground truth, binary programs and third-party libraries. However, these resources have not yet been fully curated.
 
 # jtrans finetune
