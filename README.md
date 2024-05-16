@@ -9,8 +9,8 @@ From the figure below, we can see that the model after tuning has improved by a 
 ![jtrans_not_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/b3de5582-5163-4be0-8898-d3cfa0b13017)
 
 <div align="center">
-  <img src="[image1.jpg](https://github.com/whoami648/BinCoFer/assets/75363525/3c2d543c-b599-48f6-80af-6b9419955ff6)" alt="Image 1" width="300" />
-  <img src="[image2.jpg](https://github.com/whoami648/BinCoFer/assets/75363525/b3de5582-5163-4be0-8898-d3cfa0b13017)" alt="Image 2" width="300" />
+  <img src="![jtrans_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/3c2d543c-b599-48f6-80af-6b9419955ff6)" alt="Image 1" width="300" />
+  <img src="![jtrans_not_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/b3de5582-5163-4be0-8898-d3cfa0b13017)" alt="Image 2" width="300" />
 </div>
 
 <p align="center">图片标题1</p>
