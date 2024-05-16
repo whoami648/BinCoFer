@@ -4,22 +4,15 @@ This project aims to collect Arch Linux data sets, mainly covering ground truth,
 
 # jtrans finetune
 From the figure below, we can see that the model after tuning has improved by a certain amount compared with the model before tuning.If you want to get the **tuned model**, please contact with zyx72038@hust.edu.cn.
-## same function pairs similarity
 
-![same function pairs similarity](https://github.com/whoami648/BinCoFer/assets/75363525/3c2d543c-b599-48f6-80af-6b9419955ff6)
-
-## different function pairs similarity
-
-![different function pairs similarity](https://github.com/whoami648/BinCoFer/assets/75363525/b3de5582-5163-4be0-8898-d3cfa0b13017)
-
-**same function pairs similarity**
+### **same function pairs similarity**
 
 ![jtrans_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/3c2d543c-b599-48f6-80af-6b9419955ff6)
 
 
 
 
- **different function pairs similarity**          
+### **different function pairs similarity**          
 ![jtrans_not_xiangsi](https://github.com/whoami648/BinCoFer/assets/75363525/b3de5582-5163-4be0-8898-d3cfa0b13017)
 
 
